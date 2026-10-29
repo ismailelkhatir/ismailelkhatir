@@ -33,17 +33,57 @@ looking_for: Internship (stage) in France
 
 <div align="center">
 
-**AI & Embedded**
+### 🤖 AI & Embedded
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,c,cpp,arduino,raspberrypi&perline=8" alt="ai" />
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br /><sub><b>Python</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br /><sub><b>PyTorch</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /><br /><sub><b>TensorFlow</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" /><br /><sub><b>OpenCV</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /><br /><sub><b>C</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br /><sub><b>C++</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" /><br /><sub><b>Arduino</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" /><br /><sub><b>Raspberry Pi</b></sub></td>
+  </tr>
+</table>
 
-**Web & Mobile**
+### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,laravel,php,tailwind,androidstudio,kotlin,mysql&perline=11" alt="web" />
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br /><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br /><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br /><sub><b>React</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br /><sub><b>Next.js</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" /><br /><sub><b>NestJS</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" /><br /><sub><b>Laravel</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br /><sub><b>PHP</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" /><br /><sub><b>Tailwind CSS</b></sub></td>
+  </tr>
+</table>
 
-**Tools**
+### 📱 Mobile & Databases
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&perline=5" alt="tools" />
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" /><br /><sub><b>Android Studio</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" /><br /><sub><b>Kotlin</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br /><sub><b>MySQL</b></sub></td>
+  </tr>
+</table>
+
+### 🧰 Tools & DevOps
+
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br /><sub><b>Git</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br /><sub><b>GitHub</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br /><sub><b>Docker</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br /><sub><b>Linux</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br /><sub><b>VS Code</b></sub></td>
+  </tr>
+</table>
 
 </div>
 
