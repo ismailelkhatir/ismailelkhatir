@@ -107,9 +107,9 @@ looking_for: Internship (stage) in France
 
 | Project | What it is | Stack |
 |---|---|---|
+| 🎞️ **Online Media Tools** | Browser-only GIF maker and converters www.videoaudiotools.com | Next.js |
 | 🛒 **Salaya** | E-commerce store for a Moroccan prayer-mat brand | Next.js |
 | 🧴 **Parafol** | Premium landing page + admin dashboard | Next.js, NestJS |
-| 🎞️ **Online Media Tools** | Browser-only GIF maker and converters www.videoaudiotools.com | Next.js |
 | 🔗 **[qrit](https://github.com/aithsaine/qrit)** | QR code project | |
 
 > More in my pinned repositories 📌
