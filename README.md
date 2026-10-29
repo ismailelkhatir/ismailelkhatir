@@ -1,109 +1,104 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ismail%20El%20Khatir&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Embedded%20AI%20%C2%B7%20Deep%20Learning%20%C2%B7%20Computer%20Vision&descSize=18&descAlignY=60&animation=fadeIn" alt="header" width="100%" />
-
-<a href="https://github.com/ismailelkhatir">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Master's+student+in+Embedded+AI;I+bring+deep+learning+to+real+hardware;Full+Stack+developer+on+the+side;Looking+for+an+internship+in+France+%F0%9F%87%AB%F0%9F%87%B7" alt="typing" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123044,100:00D4FF&height=200&section=header&text=Ismail%20El%20Khatir&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=EMBEDDED%20AI%20%7C%20DEEP%20LEARNING%20%7C%20COMPUTER%20VISION&descSize=14&descAlignY=60" width="100%" alt="Embedded AI"/>
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=ismailelkhatir&label=Profile%20views&color=0e75b6&style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-el-khatir)
+<a href="https://github.com/ismailelkhatir">
+<img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/ismail-el-khatir">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-```yaml
-name:      Ismail El Khatir
-studying:  Master Intelligence Artificielle Embarquée (Embedded AI)
-school:    Université Ibn Zohr, FSA Ait Melloul, Agadir
-location:  Morocco 🇲🇦
-focus:     [Deep Learning, Computer Vision, Embedded Systems, IoT]
-learning:  [Parallel Programming, Edge Inference, Android]
-looking_for: Internship (stage) in France
-```
+Master's student in **Embedded Artificial Intelligence** at Université Ibn Zohr, Faculty of Applied Sciences, Ait Melloul, Morocco.
+
+Interested in developing intelligent systems combining artificial intelligence, computer vision, and embedded technologies.
+
+My academic background and software development experience allow me to explore both AI applications and practical software engineering.
+
+**Areas of Interest**
+- Deep Learning
+- Computer Vision
+- Embedded Systems
+- Edge AI
+- Internet of Things
+- Parallel Programming
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
 <div align="center">
 
-**AI & Embedded**
+**AI & Computer Vision**
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,c,cpp,arduino,raspberrypi&perline=8" alt="ai" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv&theme=dark" alt="AI"/>
 
-**Web & Mobile**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,laravel,php,tailwind,androidstudio,kotlin,mysql&perline=11" alt="web" />
+**Embedded Systems**
 
-**Tools**
+<img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,linux&theme=dark" alt="Embedded"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&perline=5" alt="tools" />
+<br/>
+
+**Web Development**
+
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,laravel,php,mysql&theme=dark" alt="Web"/>
+
+<br/>
+
+**Development Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools"/>
 
 </div>
 
 ---
 
-## 🧩 Skillset
-
-| Area | What I work with |
-|---|---|
-| 🤖 **AI** | Deep Learning, Computer Vision, model optimization for embedded targets |
-| 🔌 **Embedded & IoT** | Microcontrollers, sensors, edge deployment |
-| ⚡ **Parallel Programming** | Multithreading, concurrency, performance |
-| 📱 **Mobile** | Android development |
-| 🎨 **Frontend** | Next.js, React, TypeScript, HTML, CSS, TailwindCSS |
-| 🧱 **Backend** | NestJS, Laravel, REST APIs, MySQL |
-| 🚢 **DevOps** | Git, Docker, Linux |
-
----
-
-## 🚀 Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| 🛒 **Salaya** | E-commerce store for a Moroccan prayer-mat brand | Next.js |
-| 🧴 **Parafol** | Premium landing page + admin dashboard | Next.js, NestJS |
-| 🎞️ **Online Media Tools** | Browser-only GIF maker and converters | Next.js |
-| 🔗 **[qrit](https://github.com/aithsaine/qrit)** | QR code project | |
-
-> More in my pinned repositories 📌
-
----
-
-## 📊 GitHub Stats
+## Projects
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ismailelkhatir&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailelkhatir&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
-
-<img src="https://streak-stats.demolab.com/?user=ismailelkhatir&theme=tokyonight&hide_border=true" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ismailelkhatir&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
+<a href="https://github.com/ismailelkhatir?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_MY_REPOSITORIES-00D4FF?style=for-the-badge&logo=github&logoColor=0B1220&labelColor=0B1220" alt="Repositories"/>
+</a>
 
 </div>
 
 ---
 
-## 🎯 Achievements
-
-- 🎓 Master's student in **Embedded AI**, Université Ibn Zohr
-- 🌍 Open to an **internship in France** in Embedded AI / Computer Vision
-
----
-
-## 📫 Connect with Me
+## GitHub Statistics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ismail--el--khatir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-el-khatir)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ismailelkhatir&show_icons=true&hide_border=true&bg_color=0B1220&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" alt="GitHub statistics"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" width="100%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailelkhatir&layout=compact&hide_border=true&bg_color=0B1220&title_color=00D4FF&text_color=C9D1D9" alt="Programming languages"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ismailelkhatir&bg_color=0B1220&color=C9D1D9&line=00D4FF&point=FFFFFF&hide_border=true" alt="Contribution graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ismail-el-khatir">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:123044,100:0B1220&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
