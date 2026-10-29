@@ -76,20 +76,6 @@ looking_for: Internship (stage) in France
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ismailelkhatir&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailelkhatir&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
-
-<img src="https://streak-stats.demolab.com/?user=ismailelkhatir&theme=tokyonight&hide_border=true" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ismailelkhatir&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
-
-</div>
-
----
 
 ## 🎯 Achievements
 
